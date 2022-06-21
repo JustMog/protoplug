@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+	<color target="Default" 	hex="FFF8F8F0"/>
+	<color target="Background" 	hex="FF181D20"/>
+	<color target="Highlight" 	hex="FF333333"/>
+	<color target="Margintext" 	hex="ff777777"/>
+	<color target="Marginback" 	hex="ff181818"/>
+	<color target="Caret"	 	hex="FFFFFFFF"/>
+	
+	<color target="Comment" 	hex="ff696969"/>
+	<color target="Integer" 	hex="ff9C88BD"/>
+	<color target="Float" 		hex="ff9C88BD"/>
+	<color target="Keyword" 	hex="ffBA3E70"/>
+	<color target="String" 		hex="ffbfbf91"/>
+	<color target="Operator" 	hex="ff6693BD"/>
+	<color target="Punctuation" hex="ffBBBBBB"/>
+	<color target="Bracket" 	hex="ffD4B73D"/>
+	<color target="Error" 		hex="ff989898"/>
+	
+	<font priority="1" typeface="Lucida Console" size="15" hinted="true"/>
+</theme>
+
